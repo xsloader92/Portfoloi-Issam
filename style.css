@@ -27,7 +27,7 @@ header {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8em;
-    transition: 0.6s ease;
+    transition: 0.9s ;
 }
 
 .logo:hover{
@@ -84,7 +84,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(images/pexels-olia-danilevich-4974915.jpg);
+    background-image: url(images//background1.jpg);
     background-size: cover;
     background-position: center center;
 }
